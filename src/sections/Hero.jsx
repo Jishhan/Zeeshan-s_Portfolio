@@ -1,4 +1,4 @@
-import { Button } from "../components/button";
+import { Button } from "../components/Button";
 import { ArrowRight, Download, TextWrap, ChevronDown } from "lucide-react";
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 import { BsTwitterX } from "react-icons/bs";
